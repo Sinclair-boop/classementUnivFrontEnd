@@ -1,0 +1,13 @@
+.el-nf-container {
+    min-height: 100vh;
+}
+
+.el-nf-btn {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    font-weight: 500;
+}
+
+.el-nf-h1 {
+    color: var(--color-primary) !important;
+}
